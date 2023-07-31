@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "lprefix.h": "c",
+        "random": "c"
+    }
+}
